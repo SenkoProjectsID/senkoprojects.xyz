@@ -4,8 +4,8 @@ $user="root";
 $password="";
 $db="database"
 
-$kon = mysqli_connect($host,$user,$password);
-if ($kon){
+$von = mysqli_connect($host,$user,$password);
+if ($von){
 	echo "Connection succses";
   } else {
   echo "Connection missing"
