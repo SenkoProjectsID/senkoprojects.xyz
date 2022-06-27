@@ -100,3 +100,4 @@ $(document).ready(function() {
         });
     }
 });
+console.log('Projects Senko Is The Best')

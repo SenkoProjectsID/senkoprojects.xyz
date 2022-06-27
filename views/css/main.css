@@ -3159,3 +3159,23 @@ img.spin {
 }
 
 /*# sourceMappingURL=maps/main.css.map */
+founder {
+  font-family: Karla;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  letter-spacing: -1px;
+  color: #666666;
+}
+.founder .content h3 {
+  font-family: Karla;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  letter-spacing: -1px;
+  color: #666666;
+}
