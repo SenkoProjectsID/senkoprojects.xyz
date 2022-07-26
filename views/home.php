@@ -157,7 +157,7 @@
                 <center><img src="views/image/staff-profile/1.png" alt="" width="180" ></center>
                 <br>
                 <p style="text-align:center; font-family: Karla; font-style: bold; font-weight: normal; font-size: 26px; line-height: 19px">CEO</p>
-<p style="text-align:center">Abdul Vaiz Iskandar</p>
+<p style="text-align:center">A.V Vahry Iskandar</p>
               </div>
               <div class="single-brand">
                 <img src="views/image/staff-profile/2.png"width="180" alt="">

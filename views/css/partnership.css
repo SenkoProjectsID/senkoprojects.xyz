@@ -1,0 +1,23 @@
+.btn{
+text-align: center;
+position: center;
+font-family: Roboto, sans-serif;
+font-weight: 0;
+font-size: 14px;
+color: #f5f5f5;
+background-color: #03b05f;
+padding: 10px 30px;
+border: solid #03b05f 2px;
+box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+border-radius: 5px;
+transition : 1000ms;
+transform: translateY(0);
+}
+.btn:hover{
+transition : 1000ms;
+padding: 10px 50px;
+transform : translateY(-0px);
+background-color: #21ba4f;
+color: #000000;
+border: solid 2px #0066cc;
+}
